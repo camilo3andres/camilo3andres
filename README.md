@@ -50,8 +50,12 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=BrayanGarzon&icon=0&color=0)](https://visitcount.itsvg.in)
-### ⚙️ &nbsp;GitHub Analytics
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚙️ &nbsp;GitHub Analytics</h2></summary>
+  </ul>
+</div>
 <p align="center">
 <a href="https://github.com/BrayanGarzon">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanGarzon&theme=algolia&hide_border=false"/>
@@ -63,7 +67,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BrayanGarzon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ✍️ Phrase of the day
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">✍️ Phrase of the day</h2></summary>
+  </ul>
+</div>
+
 <p align="center">
   <img height="200em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
