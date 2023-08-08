@@ -3,9 +3,7 @@
 <h1 align="center">Hola, soy <a href="#">Brayan Garzón</a> 👋</h1>
 </div>
 
----
 
-[![](https://visitcount.itsvg.in/api?id=BrayanGarzon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 <p align="center">
