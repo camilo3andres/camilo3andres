@@ -2,7 +2,10 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/BrayanGarzon">Brayan Garzón</a> 👋</h1>
 </div>
-<img src="https://imgur.com/gallery/j7EltZE">
+
+<img  src="https://github.com/BrayanGarzon/BrayanGarzon/assets/70782115/e0fc00bd-91bd-4684-8ac0-dd736c83a7b4"
+
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
