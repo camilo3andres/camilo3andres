@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy <a href="https://github.com/BrayanGarzon">Brayan Garzón</a> 👋</h1>
 </div>
 
-<img  src="https://github.com/BrayanGarzon/BrayanGarzon/assets/70782115/e0fc00bd-91bd-4684-8ac0-dd736c83a7b4"
+<img  src="https://github.com/BrayanGarzon/BrayanGarzon/assets/70782115/e0fc00bd-91bd-4684-8ac0-dd736c83a7b4">
 
 
 <!--- snake -->
