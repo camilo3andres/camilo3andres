@@ -54,16 +54,15 @@
 
 
 
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">⚙️ &nbsp;GitHub Analytics</h2></summary>  
   </ul>
 </div>
 <p align="center">
-  <a href="https://visitcount.itsvg.in" >
-    <img src="https://visitcount.itsvg.in/api?id=BrayanGarzon&label=Profile%20Views&color=1&icon=5&pretty=true" />
-  </a>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=BrayanGarzon&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 </p>
 <p align="center">
 <a href="https://github.com/BrayanGarzon">
