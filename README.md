@@ -60,11 +60,6 @@
   </ul>
 </div>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=BrayanGarzon&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</a>
-</p>
 
 <p align="center">
 <a href="https://github.com/BrayanGarzon">
