@@ -1,6 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/BrayanGarzon">Brayan Garzón</a> 👋</h1>
+  <p>Ingeniero informático especializado en desarrollo web y software. Poseo experiencia sólida en Vue.js, Django, HTML, JavaScript, CSS, PostgreSQL, Python y C++. Mis habilidades en diseño gráfico complementan mi enfoque integral en la creación de soluciones web innovadoras y visualmente atractivas.</p>
 </div>
 
 <img  src="https://github.com/BrayanGarzon/BrayanGarzon/assets/70782115/e0fc00bd-91bd-4684-8ac0-dd736c83a7b4">
