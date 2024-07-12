@@ -1,6 +1,17 @@
+<!-- HEADER -->
+
+
+<div align="center" style="position: relative; width: 100%; text-align: center;">
+  <a href="https://github.com/BrayanGarzon"> 
+    <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Brayan%20Garzón%20(Dev)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header" style="width: 100%; height: auto; text-align: center;"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/BrayanGarzon">Brayan Garzón</a> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> </h1>
   <p>Ingeniero informático especializado en desarrollo web y software. Poseo experiencia sólida en Vue.js, Django, HTML, JavaScript, CSS, PostgreSQL, Python y C++. Mis habilidades en diseño gráfico complementan mi enfoque integral en la creación de soluciones web innovadoras y visualmente atractivas.</p>
 </div>
 
@@ -15,7 +26,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> </h2></summary>
   </ul>
 </div>
 
@@ -45,7 +56,7 @@
 </p>
 
 
-
+<!--linea-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
@@ -96,3 +107,11 @@
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
+
+<!-- FOOTER -->
+<div align="center" style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" style="width: 100%; height: auto;"/>
+</div>
+
+
+
