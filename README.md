@@ -1,9 +1,6 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/BrayanGarzon">Brayan Garzón</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/BrayanGarzon">Brayan Garzón</a> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> </h1>
   <p>Ingeniero informático especializado en desarrollo web y software. Poseo experiencia sólida en Vue.js, Django, HTML, JavaScript, CSS, PostgreSQL, Python y C++. Mis habilidades en diseño gráfico complementan mi enfoque integral en la creación de soluciones web innovadoras y visualmente atractivas.</p>
 </div>
 
