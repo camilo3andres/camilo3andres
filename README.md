@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/BrayanGarzon">Brayan Garzón</a> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> </h1>
   <p>Ingeniero informático especializado en desarrollo web y software. Poseo experiencia sólida en Vue.js, Django, HTML, JavaScript, CSS, PostgreSQL, Python y C++. Mis habilidades en diseño gráfico complementan mi enfoque integral en la creación de soluciones web innovadoras y visualmente atractivas.</p>
