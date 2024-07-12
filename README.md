@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/BrayanGarzon">Brayan Garzón</a> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> </h1>
   <p>Ingeniero informático especializado en desarrollo web y software. Poseo experiencia sólida en Vue.js, Django, HTML, JavaScript, CSS, PostgreSQL, Python y C++. Mis habilidades en diseño gráfico complementan mi enfoque integral en la creación de soluciones web innovadoras y visualmente atractivas.</p>
@@ -7,11 +7,7 @@
 <img  src="https://github.com/BrayanGarzon/BrayanGarzon/assets/70782115/e0fc00bd-91bd-4684-8ac0-dd736c83a7b4">
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 
@@ -50,8 +46,7 @@
 
 
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
@@ -69,8 +64,7 @@
 </a>
 </p>
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 <div id="user-content-toc">
@@ -83,8 +77,7 @@
   <img height="200em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
