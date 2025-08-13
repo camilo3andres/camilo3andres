@@ -3,7 +3,7 @@
 
 <div align="center" style="position: relative; width: 100%; text-align: center;">
   <a href=""> 
-    <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=camilo torres(Dev)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header" style="width: 100%; height: auto; text-align: center;"/>
+    <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=(Dev)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" alt="header" style="width: 100%; height: auto; text-align: center;"/>
   </a>
 </div>
 
