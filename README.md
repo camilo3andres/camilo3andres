@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <p>Ingeniero informático especializado en desarrollo web y software. Poseo experiencia sólida en Vue.js, Django, HTML, JavaScript, CSS, PostgreSQL, Python y C++. Mis habilidades en diseño gráfico complementan mi enfoque integral en la creación de soluciones web innovadoras y visualmente atractivas.</p>
+  <p>Estudiante de desarrollo de software con interés en crear aplicaciones web y móviles que sean funcionales, escalables y atractivas. Manejo tecnologías como HTML, CSS, JavaScript, PHP, C++ y bases de datos como MySQL, bases en Flutter para el desarrollo multiplataforma. Me apasiona aprender nuevas herramientas y fortalecer mis habilidades para integrarlas en proyectos reales que aporten soluciones innovadoras..</p>
 </div>
 
 <!--<img  src="https://github.com/BrayanGarzon/BrayanGarzon/assets/70782115/e0fc00bd-91bd-4684-8ac0-dd736c83a7b4">-->
